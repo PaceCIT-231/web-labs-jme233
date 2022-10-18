@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  text-align: center;
+   }
+
+/*Navigation*/
+nav {
+    text-align: center;
+   }
+
+nav {
+    background-color: green;
+  }
+
+/* Family font */
+* {
+    text-align: center;
+    color: Pink;
+  } 
+
+  /* Background color */
+* {
+    background-color: White;
+  }
+
+* {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  /* Header Color*/
+h1 {
+    background-color:lightgreen;
+   }
+
+* {
+    font-weight: 700;
+  }
+ 
+* {
+    font-style: oblique;
+  }  
+
+/* Style rules for footer content */
+footer p {
+    font-size: 0.75em;
+    text-align: center;
+    color: #fff;
+    padding: 0 1em;
+}
+
+footer p a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+  </style>
+  </head>
+  <body>
+  
+ 
+  
+  </body>
+  </html>
+  
