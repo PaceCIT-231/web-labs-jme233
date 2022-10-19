@@ -36,3 +36,10 @@ em {
  ol li::marker {
   content: "🤍";
 }
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 10px;
+  width: 97%;
+  border: 5px solid white;
+}
