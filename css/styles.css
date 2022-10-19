@@ -1,0 +1,38 @@
+/*
+Author:Alexandra Mogrovejo
+Date: November 15 2021
+File Name: styles.css
+*/
+
+h1, footer {
+  text-align: center;
+  border: 5px solid white;
+  margin: 15px
+}
+* {
+  text-align: center;
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+  background-color: palevioletred;
+}
+/*Navigation*/
+nav {
+    text-align: center;
+    font-weight: bold;
+    background-color: palevioletred;
+    margin: 15px
+    }
+em {
+    font-style: oblique;
+    font-weight: 700;
+  }
+* main {
+  text-align: center;
+  margin-top: 15px;
+}
+  
+ .white{color:white} 
+
+ ol li::marker {
+  content: "🤍";
+}
