@@ -1,67 +1,38 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-h1 {
-  text-align: center;
-   }
+/*
+Author:Alexandra Mogrovejo
+Date: November 15 2021
+File Name: styles.css
+*/
 
+h1, footer {
+  text-align: center;
+  border: 5px solid white;
+  margin: 15px
+}
+* {
+  text-align: center;
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+  background-color: palevioletred;
+}
 /*Navigation*/
 nav {
     text-align: center;
-   }
-
-nav {
-    background-color: green;
-  }
-
-/* Family font */
-* {
-    text-align: center;
-    color: Pink;
-  } 
-
-  /* Background color */
-* {
-    background-color: White;
-  }
-
-* {
-    font-family: "Lucida Console", "Courier New", monospace;
-  }
-  /* Header Color*/
-h1 {
-    background-color:lightgreen;
-   }
-
-* {
+    font-weight: bold;
+    background-color: palevioletred;
+    margin: 15px
+    }
+em {
+    font-style: oblique;
     font-weight: 700;
   }
- 
-* {
-    font-style: oblique;
-  }  
-
-/* Style rules for footer content */
-footer p {
-    font-size: 0.75em;
-    text-align: center;
-    color: #fff;
-    padding: 0 1em;
+* main {
+  text-align: center;
+  margin-top: 15px;
 }
+  
+ .white{color:white} 
 
-footer p a {
-    color: #fff;
-    text-decoration: none;
+ ol li::marker {
+  content: "🤍";
 }
-
-
-  </style>
-  </head>
-  <body>
-  
- 
-  
-  </body>
-  </html>
-  
